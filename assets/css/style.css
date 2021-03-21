@@ -78,7 +78,7 @@ section {
     padding: 60px;
 }
 
-/* Hero Style Start */
+/* Home Page Hero Style Start */
 .hero {
     background-image: url("../images/hero-bg.jpg");
     height: 600px;
@@ -179,6 +179,7 @@ section {
 .secondary-border {
     border-color: #39a6b2;
 }
+
 .steps div {
     margin-bottom: 80px;
 }
