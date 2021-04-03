@@ -11,14 +11,14 @@
 }
 
 body {
-    color: var(--teriary-color);
+    color: var(--tertiary-color);
     font-family: Helvetica, Arial, sans-serif;
 }
 
 /* apply styles to <header> */
 header {
     padding: 20px 35px;
-    background-color: var(--teriary-color);
+    background-color: var(--tertiary-color);
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -82,7 +82,7 @@ header h1 {
 
 body {
      /* more on this crazy alphanumerical value in a minute! */
-    color: var(--teriary-color);
+    color: var(--tertiary-color);
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -258,7 +258,7 @@ section {
 
 .intro p {
     line-height: 1.7;
-    color: var(--teriary-color);
+    color: var(--tertiary-color);
     width: 80%;
     font-size: 20px;
     margin: 0 auto;
@@ -289,7 +289,7 @@ section {
 }
 
 .secondary-border {
-    border-color: var(--teriary-color);
+    border-color: var(--tertiary-color)-color);
 }
 
 .tertiary-border {
@@ -297,7 +297,7 @@ section {
 }
 
 .secondary-border {
-    border-color: var(--teriary-color);
+    border-color: var(--tertiary-color);
 }
 
 .step {
@@ -311,11 +311,11 @@ section {
 }
 
 .step:not(:last-child) {
-    border-bottom: 1px solid var(--teriary-color);
+    border-bottom: 1px solid var(--tertiary-color);
 }
 
 /*.step:nth-child(even) {
-    border-bottom: 1px solid var(--teriary-color);
+    border-bottom: 1px solid var(--tertiary-color);
 }*/
 
 .step h3 {
@@ -341,7 +341,7 @@ section {
 }
 
 .step-text {
-    color: var(--teriary-color);
+    color: var(--tertiary-color);
     font-size: 18px;
     flex: 12;
 }
@@ -465,7 +465,7 @@ section {
 
 .contact-form button:hover {
     color: var(--primary-color);
-    background: var(--teriary-color);
+    background: var(--tertiary-color);
 }
 
 .contact-info a {
